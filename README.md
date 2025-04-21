@@ -5,8 +5,8 @@ A sample MVC project about how to use PostgreSQL with ASP.NET Core.
 You can take a look [Medium post](https://medium.com/@isikabdurrahman/net-core-ile-postgresql-kullan%C4%B1m%C4%B1-7aa025ec9123) for detailed instructions [TR]
 
 This project uses;
-- .NET 5.0 target framework.
-- Npgsql.EntityFrameworkCore.PostgreSQL 5.0.2 NuGet package.
+- .NET 9.0 target framework.
+- Npgsql.EntityFrameworkCore.PostgreSQL 9.0.4 NuGet package.
 
 ## Project Setup
 
